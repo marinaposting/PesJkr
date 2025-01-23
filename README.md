@@ -1,14 +1,27 @@
-# PesJkr
+# Pestrica legendary joker
+Gains X0.5 mult everytime scoring hand contains exactly 4 cards
 
-Adds the legendary jester Pestrica to the soul pool
+Current Version: 1.0
+Currently adds 1 joker and 1 challenge
+How to install:
 
-gain X0.5 everytime scoring hand contains exactly 4 cards, start with X1
+    Download the latest version of this mod
+    Extract the zip file to %appdata%\balatro\mods
+    *Requires Steamodded
+
+
+
+Adds juggling hands challenge, start with a copy of
+Four fingers
+square joker
+trousers
+family
+Pestrica
+
+X4 blinds chip requirements 
+Faster ante scaling
 
 art by: GsProductions﻿
 Inspired by: Pestrica﻿
-
-
-Requires STEAMODDED﻿
-
 
 Please comment any change suggestions or bug fixes!
